@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UeMeritCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Theme.UeMeritCalculator" parent="Base.Theme.UeMeritCalculator" />
+</resources>

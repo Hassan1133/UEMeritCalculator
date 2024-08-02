@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UE Merit Calculator</string>
+    <string name="matriculation">Matriculation</string>
+    <string name="enter_obtained_marks">enter obtained marks</string>
+    <string name="enter_total_marks">enter total marks</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
